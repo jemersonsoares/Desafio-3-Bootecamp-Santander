@@ -22,5 +22,5 @@ A partir daí decidi exportar os dados em .csv para poder trabalhar com a análi
 A base é pequena, logo, não houve grandes insights .Apenas foi útil para constatar o número de dependentes, funcionários, total de horas por departamento, etc.
 
 Por conta da base ser pequena, julguei desnecessário a criação de um dashbord. 
+![image](https://github.com/jemersonsoares/Desafio-3-Bootecamp-Santander/assets/42853998/1d95a040-087d-400e-8dd0-93764145681d)
 
-![image-20231021224356017](C:\Users\Jemerson\AppData\Roaming\Typora\typora-user-images\image-20231021224356017.png)
